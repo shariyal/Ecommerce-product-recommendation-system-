@@ -124,8 +124,4 @@ python -m flask run --no-reload
 Contributing
 - If you want help wiring the UI suggestions into `main.html`, adding CLI flags, or persisting synthesized Tags back to the DB on startup, tell me which feature you want and I can implement it.
 
-License
-- This is prototype code for demonstration and learning. Add a license file if you want to open-source it.
 
----
-Generated on October 13, 2025
